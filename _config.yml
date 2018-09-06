@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jing Zhao/ Site Title"
+title                    : "Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,8 +83,8 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Atlanta, GA"
-  employer         :
-  googlescholar    : "hhttps://scholar.google.com/citations?user=dweefxMAAAAJ&hl=en"
+  employer         : "Emroy University"
+  googlescholar    : https://scholar.google.com/citations?user=dweefxMAAAAJ&hl=en
   email            :
   uri              :
   bitbucket        :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jzhao16"
+  github           : https://github.com/jzhao16
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : http://orcid.org/yourorcidurl
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://twitter.com/jzhao_estel
   vine             :
   weibo            :
   xing             :
