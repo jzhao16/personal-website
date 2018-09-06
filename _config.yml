@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Jing's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jing Zhao"
 description              : &description "personal description"
 url                      : https://jzhao16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Jing Zhao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Fellow at Emory University"
   location         : "Atlanta, GA"
   employer         : 
   googlescholar    : https://scholar.google.com/citations?user=dweefxMAAAAJ&hl=en
-  email            :
+  email            : jing.zhao@emory.edu
   uri              :
   bitbucket        :
   codepen          :
