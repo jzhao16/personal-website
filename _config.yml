@@ -83,7 +83,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Atlanta, GA"
-  employer         : "Emroy University"
+  employer         : 
   googlescholar    : https://scholar.google.com/citations?user=dweefxMAAAAJ&hl=en
   email            :
   uri              :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/jzhao16
+  github           : jzhao16
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : http://orcid.org/yourorcidurl
+  linkedin         : https://www.linkedin.com/in/jingzhaoestel/
+  orcid            : https://orcid.org/0000-0003-1874-6524
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/jzhao_estel
+  twitter          : 
   vine             :
   weibo            :
   xing             :
