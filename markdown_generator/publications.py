@@ -88,7 +88,7 @@ for row, item in publications.iterrows():
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
 
-    md += "\ntoc: '" + html_escape(item.toc) + "'"
+    md += "\ntoc: '/images/TOC/" + html_escape(item.toc) + "'"
     
     md += "\n---"
     
