@@ -1,5 +1,5 @@
 ---
-title: "Bindings of NO, CO, and O<subscript>2</subscript> to multifunctional globin type dehaloperoxidase follow the 'sliding scale rule'."
+title: "Bindings of NO, CO, and O2 to multifunctional globin type dehaloperoxidase follow the 'sliding scale rule'."
 collection: publications
 permalink: /publication/10/1/17-paper-title-number-8
 date: 10/1/17
