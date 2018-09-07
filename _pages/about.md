@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jing Zhao's academic personal websites"
+title: "Jing's Research Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
