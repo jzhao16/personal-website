@@ -6,7 +6,7 @@ date: 10/1/15
 venue: 'J. Phys. Chem. B'
 paperurl: 'http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b07126'
 citation: 'Jing Zhao, Chang Lu, Stefan Franzen*, <strong><i>J. Phys. Chem. B</i></strong>, 2015,119 (40), pp 12828-12837.'
-toc: '/images/TOC/2D_Kinetics.jpeg'
+toc: '/images/TOC/2D_kinetics.jpeg'
 ---
 
 <a href='http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b07126'>Download paper here</a>
