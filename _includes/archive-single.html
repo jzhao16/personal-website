@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.url %}
+      {% if post.paperurl %}
         <a href="{{ post.paperurl }}" target="_blank" title="New Page">{{ title }}</a>
       {% endif %}
     </h2>
@@ -47,12 +47,8 @@
 -->
     {% if post.citation and post.paperurl %}
       <p>{{ post.citation }}</p>
+      <img src = "{{post.toc}}">
 
-          <img src = "{{post.toc}}">
-
-    {% elsif post.citation %}
-      <p>{{ post.citation }} </p>
-    {% endif %}
 <!--
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
