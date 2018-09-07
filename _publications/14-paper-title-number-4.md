@@ -1,5 +1,5 @@
 ---
-title: "4. Peroxygenase and oxidase activities of dehaloperoxidase-hemoglobin from Amphitrite ornata."
+title: "Peroxygenase and oxidase activities of dehaloperoxidase-hemoglobin from Amphitrite ornata."
 collection: publications
 permalink: /publication/10/1/14-paper-title-number-4
 date: 10/1/14
