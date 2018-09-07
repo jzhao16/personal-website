@@ -28,7 +28,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.url %}
-        <a href="{{ post.url }}" target="_blank" title="New Page">{{ title }}</a>
+        <a href="{{ post.paperurl }}" target="_blank" title="New Page">{{ title }}</a>
       {% endif %}
     </h2>
 
@@ -48,7 +48,7 @@
     {% if post.citation and post.paperurl %}
       <p>{{ post.citation }}</p>
 
-          <img src = "CO_NO_O2.jpg">
+          <img src = {{post.toc}}>
 
     {% elsif post.citation %}
       <p>{{ post.citation }} </p>
