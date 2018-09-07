@@ -1,5 +1,5 @@
 ---
-title: "Kinetic study of the inhibition mechanism of dehaloperoxidase-hemoglobin A by 4-bromophenol."
+title: "Kinetic study of the inhibition mechanism of dehaloperoxidase-hemoglobin A by 4-bromophenol"
 collection: publications
 permalink: /publication/10/1/13-paper-title-number-2
 date: 10/1/13
