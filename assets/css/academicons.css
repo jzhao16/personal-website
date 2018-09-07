@@ -325,3 +325,9 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+article img{
+  display:block;
+  height:240px;
+  margin-left:auto;
+  margin-right:auto;
+} 
