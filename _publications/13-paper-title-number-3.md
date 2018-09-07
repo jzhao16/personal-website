@@ -1,5 +1,5 @@
 ---
-title: "3. The regulatory implications of hydroquinone for the multifunctional enzyme dehaloperoxidase-hemoglobin from Amphitrite ornata."
+title: "The regulatory implications of hydroquinone for the multifunctional enzyme dehaloperoxidase-hemoglobin from Amphitrite ornata."
 collection: publications
 permalink: /publication/10/1/13-paper-title-number-3
 date: 10/1/13

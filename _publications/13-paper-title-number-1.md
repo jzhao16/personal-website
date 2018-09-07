@@ -1,5 +1,5 @@
 ---
-title: "1. Structural and kinetic study of an internal substrate binding site in dehaloperoxidase-hemoglobin A from Amphitrite ornata"
+title: "Structural and kinetic study of an internal substrate binding site in dehaloperoxidase-hemoglobin A from Amphitrite ornata"
 collection: publications
 permalink: /publication/10/1/13-paper-title-number-1
 date: 10/1/13
