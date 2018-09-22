@@ -13,14 +13,14 @@ redirect_from:
 
 ● Proficient in programming languages such as Python, R, SQL and Javascript. 
 
-Data Science:
-    Platform (Jupyter-notebook, RStudio, Mathematica). 
-    Machine Learning and Statistical Learning (scikit-learn, time-series analysis).
-    Visualization (seaborn, ggplot2, D3.js). 
+* Data Science
+	* Platform (Jupyter-notebook, RStudio, Mathematica). 
+    * Machine Learning and Statistical Learning (scikit-learn, time-series analysis).
+    * Visualization (seaborn, ggplot2, D3.js). 
 
-Web Applications: 
-	Front-end (HTML/CSS, Bootstrap).
-	Back-end (Python Flask, MySQL). 
+* Web Applications: 
+	* Front-end (HTML/CSS, Bootstrap).
+	* Back-end (Python Flask, MySQL). 
 
 Random Research
 ======
