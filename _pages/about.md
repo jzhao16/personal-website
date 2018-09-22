@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist | Healthcare Analytics | Machine Learning | Technology Transfer
-
-● Research Scientist with 7+ years of experience in R&D, innovation strategy and solution design. Data-driven and innovative out-of-box thinker and problem solver. 
+● Research Scientist with 7+ years of experience in fundamental research, innovation strategy and solution design. Data-driven and innovative out-of-box thinker and problem solver. 
 
 ● Proficient in programming languages such as Python, R, SQL and Javascript. 
 
-	Data Science: 
-		Platform (Jupyter-notebook, RStudio, Mathematica), 
-		Machine Learning and Statistical Learning (scikit-learn, time-series analysis)
-		Visualization (seaborn, ggplot2, D3.js) 
+Data Science: 
+    Platform (Jupyter-notebook, RStudio, Mathematica), 
+	Machine Learning and Statistical Learning (scikit-learn, time-series analysis)
+	Visualization (seaborn, ggplot2, D3.js) 
 
-	Web Applications: 
-		Front-end (HTML/CSS, Bootstrap)
-		Back-end (Python Flask, MySQL) 
+Web Applications: 
+	Front-end (HTML/CSS, Bootstrap)
+	Back-end (Python Flask, MySQL) 
 
 Random Research
 ======
