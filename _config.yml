@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Research Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jing Zhao"
 description              : &description "personal description"
