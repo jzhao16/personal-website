@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-● Research Scientist with 7+ years of experience in fundamental research, innovation strategy and solution design. A long-term tech-innovation and tech-transfer follower. Data-driven and innovative out-of-box thinker and problem solver by applying cutting-edge machine learning and artificial intelligence techniques. 
+●	Research Scientist with 8+ years of experience in biomedical research, innovation strategy and solution design. A long-term tech-innovation and tech-transfer follower. Data-driven and innovative out-of-box thinker and problem solver by applying cutting-edge machine learning and artificial intelligence techniques. 
 
-● Proficient in programming languages such as Python, R, SQL and Javascript. 
+●	Proficient in programming languages such as Python, R, SQL and Javascript. 
 
 * Data Sciences
-	* Platform (Jupyter-notebook, RStudio, Mathematica). 
-    * Machine Learning, Statistical Learning and Deep Learning (Scikit-Learn, Pytorch, Time-series Analysis).
-    * Data Visualization (Matplotlib, Seaborn, ggplot2, D3.js). 
+	* Platform (Jupyter-Notebook, RStudio, Mathematica). 
+    * Machine Learning, Statistical Learning and Deep Learning (Scikit-Learn, Time-Series Analysis, Pytorch).
+    * Data Visualization (matplotlib, seaborn, ggplot2, D3.js). 
 
 * Web Applications: 
 	* Front-end (HTML/CSS, Javascript, Bootstrap).
