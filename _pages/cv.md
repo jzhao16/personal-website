@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry, Zhejiang University, <strong>2011</strong>
-* Ph.D. in Physical Chemistry, North Carolina State University, <strong>2016</strong>
-* M.S. in Computer Science, Georgia Institute of Technology, <strong>2020 expected</strong>
+* B.S. in Chemistry, Zhejiang University, 2011
+* Ph.D. in Physical Chemistry, North Carolina State University, 2016
+* M.S. in Computer Science, Georgia Institute of Technology, 2020 expected
 
 Work Experience
 ======
-* <strong>Department of Chemistry, Emory University.</strong>	June 2016 - Present
-  * Postdoctoral Research Fellow 
+* Postdoctoral Research Fellow        June 2016 - Present
+  * Employer: Department of Chemistry, Emory University.
   * Research Focus: Ultrafast Dynamics of Optical Actuated Hydrogel Nanoparticles.
 
-* <strong>Office of Technology Transfer, Emory University.</strong>	August 2018 - Present 
-  * Licensing-Track Intern 
+* Licensing-Track Intern         August 2018 - Present 
+  * Employer: Office of Technology Transfer, Emory University. 
   * Job Duties: Technology Transfer, Market Analysis, Licensing Contract and Intellectual Property.
   
 <!--
