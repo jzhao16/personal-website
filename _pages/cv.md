@@ -7,14 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Education
 
 * M.S. in Computer Science, Georgia Institute of Technology, 2017 - 2020 expected.
 * Ph.D. in Physical Chemistry, North Carolina State University, 2011 - 2016. 
 * B.S. in Chemistry, Zhejiang University, 2007 - 2011.
-
 
 ## Work Experience
 

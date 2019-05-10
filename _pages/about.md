@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Summary
-
 Research Scientist with 8+ years of experience in biomedical research, innovation strategy and solution design. A long-term tech-innovation and tech-transfer follower. Data-driven and innovative out-of-box thinker and problem solver by applying cutting-edge machine learning and artificial intelligence techniques. 
 
 * Data Science / Data Visualization
@@ -21,7 +19,6 @@ Research Scientist with 8+ years of experience in biomedical research, innovatio
 	* Web Frameworks : Django, Flask.
 	* Front-end : HTML/CSS, Javascript, Bootstrap.
 	* Back-end : PostgreSQL, MySQL, SQLite.
-
 
 
 <!--
