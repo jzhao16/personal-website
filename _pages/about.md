@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: 
+title: About Me
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+{% include base_path %}
+
+## Summary
 
 Research Scientist with 8+ years of experience in biomedical research, innovation strategy and solution design. A long-term tech-innovation and tech-transfer follower. Data-driven and innovative out-of-box thinker and problem solver by applying cutting-edge machine learning and artificial intelligence techniques. 
 
