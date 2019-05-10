@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Jing Zhao"
 title_separator          : "-"
 name                     : &name "Jing Zhao"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Jing Zhao"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow  @Emory University"
+  bio              : "Postdoctoral Research Fellow | Data Scientist @Emory University"
   location         : "Atlanta, GA"
   employer         : 
   googlescholar    : https://scholar.google.com/citations?user=dweefxMAAAAJ&hl=en

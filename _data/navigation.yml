@@ -12,10 +12,10 @@ main:
   - title: "Resume"
     url: /cv/
 
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
         
-  - title: "Blog Posts"
+  - title: "Blog Post"
     url: /year-archive/
     
 # - title: "Guide"
